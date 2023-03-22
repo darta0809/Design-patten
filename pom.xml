@@ -25,6 +25,7 @@
 
   <modules>
     <module>strategy-pattern</module>
+    <module>template-method</module>
   </modules>
 
   <dependencyManagement>
