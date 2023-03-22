@@ -6,3 +6,7 @@
 * Lambda 使用方式
 * Enum 使用方式
 
+## 模板模式 Template-pattern
+
+* 一般使用方式
+* Lambda 使用方式
