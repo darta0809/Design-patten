@@ -25,6 +25,8 @@
 
 ## 觀察者模式 Observer-pattern - 行為型設計模式
 
+![img.png](observer-pattern/images/img.png)
+
 * 一般使用方式
 * Lambda 使用方式
 
