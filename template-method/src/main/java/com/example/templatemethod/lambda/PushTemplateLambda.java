@@ -1,4 +1,4 @@
-package com.example.templatemethod;
+package com.example.templatemethod.lambda;
 
 import java.util.function.Consumer;
 

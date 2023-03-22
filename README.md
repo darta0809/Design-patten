@@ -14,6 +14,8 @@
 
 ## 模板模式 Template-pattern - 行為型設計模式
 
+![img.png](template-method/images/img.png)
+
 * 一般使用方式
 * Lambda 使用方式
 

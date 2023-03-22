@@ -1,5 +1,6 @@
 package com.example.templatemethod;
 
+import com.example.templatemethod.lambda.PushTemplateLambda;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
