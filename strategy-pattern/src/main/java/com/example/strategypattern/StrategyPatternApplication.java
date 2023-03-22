@@ -1,5 +1,6 @@
 package com.example.strategypattern;
 
+import com.example.strategypattern.lambda.LambdaStrategy;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

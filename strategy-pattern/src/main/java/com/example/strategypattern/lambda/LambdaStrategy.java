@@ -1,5 +1,6 @@
-package com.example.strategypattern;
+package com.example.strategypattern.lambda;
 
+import com.example.strategypattern.OrderService;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
