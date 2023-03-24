@@ -28,6 +28,7 @@
     <module>template-method</module>
     <module>observer-pattern</module>
     <module>chain-of-responsibility-pattern</module>
+    <module>command-pattern</module>
   </modules>
 
   <dependencyManagement>
