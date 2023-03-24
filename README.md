@@ -45,5 +45,10 @@
 
 ![img.png](command-pattern/images/img.png)
 
+Broker 為調用對象類  
+Stock 作為請求類  
+Order 為命令介面  
+BuyStock 和 SellStock 為實體命令類
+
 將一個請求轉換為一個對象，這個對象包含有關請求的所有信息。  
 這個對象然後可以被用於執行該請求，或者將其推入隊列中，或者還可以撤銷該請求。
