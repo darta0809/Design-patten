@@ -67,3 +67,10 @@ BuyStock 和 SellStock 為實體命令類
 
 通常在大量生產商品時使用。  
 其主要特點是將生產過程分為許多環節，每個環節由專門的工人負責，以提高生產效率和生產質量。
+
+## 抽象工廠模式 Abstract factory pattern - 創建型模式
+
+![img.png](abstract-factory-pattern/images/img.png)
+
+提供了一種創建一系列相關或相互依賴對象的接口，而無需指定其具體類。  
+當需要支持新的產品時，它可能會變得很難以維護和擴展。
